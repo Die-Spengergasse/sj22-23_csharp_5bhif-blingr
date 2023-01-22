@@ -70,36 +70,5 @@ namespace SPG_Fachtheorie.Aufgabe3Mvc.Controllers
 
         }
 
-        public IActionResult Anmeldung(Guid id)
-        {
-            var model = _db.Students.Where(s => s.Id == id)
-                .Include(s => s.Grades)
-                .ThenInclude(s => s.Lesson)
-                .First();
-
-            return View(model);
-        }
-
-        [HttpPost]
-        public IActionResult AnmeldungPost(Guid id)
-        {
-            var student = _db.Students
-                .Include(s => s.Grades)
-                .Include(s => s.Class)
-                .FirstOrDefault(s => s.Id == id);
-
-            if (student == null)
-            {
-                return NotFound();
-            }
-
-            if (student.Grades.Count(g => g.GradeValue == 5) == 0)
-            {
-                return RedirectToAction("Klasse", new { klasse = student.Class.Name });
-            }
-
-            return View(student);
-        }
-
     }
 }

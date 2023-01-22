@@ -10,3 +10,12 @@ C:\Users\olive\Desktop\Pos5xhif-master\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG
 C:\Users\olive\Desktop\Pos5xhif-master\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\refint\SPG_Fachtheorie.Aufgabe2.dll
 C:\Users\olive\Desktop\Pos5xhif-master\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.pdb
 C:\Users\olive\Desktop\Pos5xhif-master\Matura\Angabe_HIF_Mai2022_Haupttermin\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\ref\SPG_Fachtheorie.Aufgabe2.dll
+C:\Users\olive\Desktop\PosC#Abgabe\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.csproj.AssemblyReference.cache
+C:\Users\olive\Desktop\PosC#Abgabe\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Desktop\PosC#Abgabe\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.AssemblyInfoInputs.cache
+C:\Users\olive\Desktop\PosC#Abgabe\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.AssemblyInfo.cs
+C:\Users\olive\Desktop\PosC#Abgabe\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\PosC#Abgabe\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.dll
+C:\Users\olive\Desktop\PosC#Abgabe\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\refint\SPG_Fachtheorie.Aufgabe2.dll
+C:\Users\olive\Desktop\PosC#Abgabe\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\SPG_Fachtheorie.Aufgabe2.pdb
+C:\Users\olive\Desktop\PosC#Abgabe\SPG_Fachtheorie\src\SPG_Fachtheorie.Aufgabe2\obj\Debug\net6.0\ref\SPG_Fachtheorie.Aufgabe2.dll

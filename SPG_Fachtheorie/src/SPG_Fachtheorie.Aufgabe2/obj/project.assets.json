@@ -6468,11 +6468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olive\\Desktop\\Pos5xhif-master\\Matura\\Angabe_HIF_Mai2022_Haupttermin\\SPG_Fachtheorie\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj",
+      "projectUniqueName": "C:\\Users\\olive\\Desktop\\PosC#Abgabe\\SPG_Fachtheorie\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj",
       "projectName": "SPG_Fachtheorie.Aufgabe2",
-      "projectPath": "C:\\Users\\olive\\Desktop\\Pos5xhif-master\\Matura\\Angabe_HIF_Mai2022_Haupttermin\\SPG_Fachtheorie\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj",
+      "projectPath": "C:\\Users\\olive\\Desktop\\PosC#Abgabe\\SPG_Fachtheorie\\src\\SPG_Fachtheorie.Aufgabe2\\SPG_Fachtheorie.Aufgabe2.csproj",
       "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olive\\Desktop\\Pos5xhif-master\\Matura\\Angabe_HIF_Mai2022_Haupttermin\\SPG_Fachtheorie\\src\\SPG_Fachtheorie.Aufgabe2\\obj\\",
+      "outputPath": "C:\\Users\\olive\\Desktop\\PosC#Abgabe\\SPG_Fachtheorie\\src\\SPG_Fachtheorie.Aufgabe2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace SPG_Fachtheorie.Aufgabe2.Model
@@ -15,5 +16,6 @@ namespace SPG_Fachtheorie.Aufgabe2.Model
         public Guid LessonId { get; set; }
         public Lesson Lesson { get; set; }
         public int GradeValue { get; set; }
+        public List<Exam> exams { get; set; }
     }
 }

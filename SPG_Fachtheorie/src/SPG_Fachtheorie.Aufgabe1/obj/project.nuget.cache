@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sLT3EetPtfQTBSC+jxJpesEELYu+qz+as/nNpGdoDpwr+EUtJ1nM7s7dl+yxsiED9ehLurhEVlGZtKAZHSbDXg==",
+  "dgSpecHash": "LYAstsvGKrsZwPS1jRfmsrizGcXMACO5fQR6pMrGCIb3rczVARj0Eovt3Y/Eqt9R17+BMoJGSVEPsUAcS9IUIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\olive\\Desktop\\Pos5xhif-master\\Matura\\Angabe_HIF_Mai2022_Haupttermin\\SPG_Fachtheorie\\src\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj",
+  "projectFilePath": "C:\\Users\\olive\\Desktop\\PosC#Abgabe\\SPG_Fachtheorie\\src\\SPG_Fachtheorie.Aufgabe1\\SPG_Fachtheorie.Aufgabe1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\olive\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\olive\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",

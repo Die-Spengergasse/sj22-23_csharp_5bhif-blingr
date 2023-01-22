@@ -106,7 +106,7 @@ namespace SPG_Fachtheorie.Aufgabe2
                 _db.SaveChanges();
                 return true;
             }
-            catch (DbUpdateException ex)
+            catch (DbUpdateException)
             {
                 return false;
             }
