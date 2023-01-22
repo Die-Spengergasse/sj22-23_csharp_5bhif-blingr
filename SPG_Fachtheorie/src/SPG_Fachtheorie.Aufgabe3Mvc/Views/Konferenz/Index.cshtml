@@ -1,0 +1,10 @@
+﻿@model IEnumerable<SPG_Fachtheorie.Aufgabe2.Model.Class>
+
+<h2>Classes</h2>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li><a href="@Url.Action("Klasse", "Konferenz", new { klasse = item.Name })">@item.Name</a></li>
+    }
+</ul>
